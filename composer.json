@@ -1,8 +1,8 @@
 {
-    "name": "se/gravatar-php",
+    "name": "mheap/gravatar-php",
     "description": "PHP 5.3 Library for Gravatar (gravatar.com)",
     "keywords": ["gravatar"],
-    "homepage": "https://github.com/sveneisenschmidt/gravatar-php",
+    "homepage": "https://github.com/mheap/Gravatar-php",
     "type": "library",
     "license": "MIT",
     "authors": [
